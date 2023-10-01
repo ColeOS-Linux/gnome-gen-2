@@ -1,4 +1,7 @@
 <h1>Welcome to coleOS!</h1>
+
+# CURRENTLY BROKEN, ISSUES COMING FROM GNOME
+
 <p>This is the public source code for coleOS Gnome Gen 2 (2023-)</p>
 <p> nothing new here, except it being rebased to blizos!</p>
 
